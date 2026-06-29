@@ -27,6 +27,7 @@ https://vintage-typewriter-nine.vercel.app
 3. Run `npm run dev`
 
 ## 📂 Project Structure
+```text
 .
 ├── src
 │   ├── components
@@ -42,6 +43,7 @@ https://vintage-typewriter-nine.vercel.app
 ├── index.html
 ├── package.json
 └── vite.config.js
+```
 
 ## 💻 Tech Stack
 - React
