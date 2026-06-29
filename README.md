@@ -1,16 +1,52 @@
-# React + Vite
+<h3 align="center"><b>VINTAGE TYPEWRITER</b></h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,css,js" />
+</div>
 
-Currently, two official plugins are available:
+Experience the timeless feel of an analog typewriter right in your browser! Featuring responsive sounds, mechanical key interactions, and various nostalgic visual themes. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Website
+Experience the fully interactive website live here: 
+https://vintage-typewriter-nine.vercel.app
 
-## React Compiler
+## 🎮 How to Control
+- **Type:** Use your keyboard normally to type on the paper.
+- **Carriage Return:** Press `Enter` to return the carriage and start a new line.
+- **Backspace:** Correct your typos natively.
+- **Snapshots:** Use the snapshots feature to capture what you have written.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Installation
 
-## Expanding the ESLint configuration
+**Prerequisites:**
+- Node.js installed
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Setup Instructions:**
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run dev`
+
+## 📂 Project Structure
+.
+├── src
+│   ├── components
+│   │   ├── LeftColumn.jsx
+│   │   ├── SnapshotModal.jsx
+│   │   └── Typewriter.jsx
+│   ├── hooks
+│   │   └── useTypewriterSounds.js
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── public
+├── index.html
+├── package.json
+└── vite.config.js
+
+## 💻 Tech Stack
+- React
+- Vite
+- CSS
+- JavaScript
+
+<div align="center"><p>Y7XIFIED</p></div>
